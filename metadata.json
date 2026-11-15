@@ -1,0 +1,6 @@
+{
+  "name": "SquareCover — Online Sales Cover Photo Studio",
+  "description": "Converge multiple product photos into a crisp 1:1 square cover photo for online listings using 2-photo corner inset or 3-photo split layouts, with high-quality JPEG and PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
